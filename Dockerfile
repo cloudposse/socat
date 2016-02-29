@@ -11,5 +11,5 @@ USER root
 
 # E.g. Proxy OpenVPN
 # e.g. UDP4-RECVFROM:1194,fork UDP4-SENDTO:vpn.host:1194
-CMD ["help"]
+CMD ["-h"]
 
